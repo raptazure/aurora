@@ -14,8 +14,8 @@ export default {
   /**
    * 站点标题
    */
-  title: '蝉時雨',
-  subtitle: '蝉鸣如雨 花宵道中',
+  title: 'Raptazure',
+  subtitle: '心随自然',
 
   /**
    * Github Issues 配置
@@ -90,7 +90,7 @@ export default {
    * 书单页面
    */
   bookOpts: {
-    display: true,
+    display: false,
     enableComment: true,
     qoute: '追想風景 彼岸帰航',
   },
@@ -110,10 +110,10 @@ export default {
   aboutOpts: {
     display: true,
     enableComment: true,
-    qoute: '蝉鸣如雨，花宵道中',
+    qoute: '',
     avatar: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/avatar.jpg',
-    graduated: 'University of Electronic Science and Technology of China (UESTC)',
-    college: 'Communication&Information Engineering',
+    graduated: 'Harbin Institute of Technology at Weihai',
+    college: 'SoftWare Engineering',
     contact: [
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/email.png',

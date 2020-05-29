@@ -66,7 +66,7 @@ export default {
   data() {
     return {
       sakura,
-      showWaifu: true,
+      showWaifu: false,
       waifu: 'tia',
       textures: '',
       menu: [

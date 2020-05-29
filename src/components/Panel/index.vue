@@ -132,7 +132,7 @@ export default {
     // 初始化背景主题
     initTheme() {
       if (this.theme) return
-      const theme = localRead('theme', 'touhou')
+      const theme = localRead('theme', 'school')
       this.setTheme(theme)
     },
     // 切换主题
