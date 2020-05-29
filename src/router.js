@@ -40,7 +40,7 @@ export default new Router({
       component: Tag,
     },
     {
-      path: '/inspiration',
+      path: '/diary',
       name: 'inspiration',
       component: Inspiration,
     },

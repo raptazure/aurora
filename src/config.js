@@ -20,19 +20,19 @@ export default {
   /**
    * Github Issues 配置
    */
-  username: 'chanshiyucx', // github 用户名
-  repository: 'blog', // 文章仓库地址
-  token: ['0ad1a0539c5b96fd18fa', 'aaafba9c7d1362a5746c'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
+  username: 'raptazure', // github 用户名
+  repository: 'raptazure.github.io', // 文章仓库地址
+  token: ['a0ea424d064f8d05a2d9', '8d64bc0adcfceba23565'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
 
   /**
    * Gitalk 配置，文档详见：https://github.com/gitalk/gitalk
    */
   gitalk: {
-    clientID: '864b1c2cbc4e4aad9ed8',
-    clientSecret: '6ca16373efa03347e11a96ff92e355c5cea189bb',
+    clientID: '686aa5b16c333bda1431',
+    clientSecret: 'd4755bd61471bab4fc7426bf5a42cbff293e53fc',
     repo: 'comment', // 评论仓库地址
-    owner: 'chanshiyucx',
-    admin: ['chanshiyucx'],
+    owner: 'raptazure',
+    admin: ['raptazure'],
     distractionFreeMode: false, // 是否开始无干扰模式【背景遮罩】
   },
 
@@ -40,8 +40,8 @@ export default {
    * leancloud 配置 【注意切换为国际版】
    */
   leancloud: {
-    appId: 'LjOwR4ELEqbauKvtQbwq5TUw-MdYXbMMI',
-    appKey: 'BOSFJ49ohbGctgn4zvJE9VN6',
+    appId: 'V5C47U6TjwVUCV3wPywbPNnQ-MdYXbMMI',
+    appKey: 'v133GgpvDL8kEa8nEzAD9XwX',
   },
 
   /**
@@ -111,29 +111,25 @@ export default {
     display: true,
     enableComment: true,
     qoute: '',
-    avatar: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/avatar.jpg',
+    avatar: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg',
     graduated: 'Harbin Institute of Technology at Weihai',
     college: 'SoftWare Engineering',
     contact: [
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/email.png',
-        link: 'http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=tNnR9Nfc1drH3N3NwZrX29k',
+        link: 'mailto:raptazure@qq.com',
       },
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/github.png',
-        link: 'https://github.com/chanshiyucx',
-      },
-      {
-        icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/telegram.png',
-        link: 'https://t.me/chan_shi_yu',
+        link: 'https://github.com/raptazure',
       },
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/music.png',
-        link: 'https://music.163.com/#/user/home?id=103060582',
+        link: 'https://music.163.com/#/user/home?id=451103394',
       },
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/rsshub.png',
-        link: 'https://rsshub.app/github/issue/chanshiyucx/blog',
+        link: 'https://rsshub.app/github/issue/raptazure/raptazure.github.io',
       },
     ],
   },

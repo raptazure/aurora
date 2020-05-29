@@ -4,16 +4,15 @@
       <div class="page" v-if="friend.length">
         <Quote :quote="$config.friendOpts.qoute" />
         <div class="me">
-          <span>欢迎各位大佬交换友链 (づ￣ 3￣)づ</span>
-          <span>★ Bio：蝉时雨</span>
-          <span>★ Motto：蝉鸣如雨，花宵道中</span>
-          <span>★ URL：https://chanshiyu.com</span>
+          <span>欢迎交换友链~</span>
+          <span>★ Bio：Raptazure</span>
+          <span>★ Motto：心随自然</span>
+          <span>★ URL：https://raptazure.github.io</span>
           <span
-            >★ Avatar：<a href="https://cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/avatar.jpg" target="_blank"
+            >★ Avatar：<a href="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg" target="_blank"
               >点击获取</a
             ></span
           >
-          <span>※ 以下友链按博主互访频率排序，并根据个人对博客内容喜好加权，博主将不定期更新排序并过滤阵亡名单。</span>
         </div>
         <ul class="content">
           <li v-for="(item, index) in friend" :key="item.name">
