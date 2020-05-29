@@ -129,7 +129,7 @@ export default {
       },
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/rsshub.png',
-        link: 'https://rsshub.app/github/issue/raptazure/raptazure.github.io',
+        link: 'https://rsshub.app/github/issue/raptazure/raptazure.github.io/all',
       },
     ],
   },
