@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap');
 #header {
   display: flex;
   flex-direction: column;
@@ -19,7 +21,6 @@
 
   .title,
   .subtitle {
-    font-family: GuDianMingChaoTi;
     letter-spacing: 4px;
     @include pc-layout {
       animation: fadeInDown 0.5s ease-out forwards;
@@ -30,6 +31,7 @@
   }
 
   .title {
+    font-family: 'Lobster Two';
     transition: color 0.3s ease-out;
     @include pc-layout {
       font-size: 48px;
@@ -45,6 +47,7 @@
   }
 
   .subtitle {
+    font-family: 'Liu Jian Mao Cao';
     @include pc-layout {
       font-size: 22px;
       line-height: 32px;
