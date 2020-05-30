@@ -134,7 +134,7 @@ export default {
       {
         icon: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/music.png',
         link: 'https://music.163.com/#/user/home?id=451103394',
-      }
+      },
     ],
   },
 
