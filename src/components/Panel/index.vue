@@ -91,7 +91,7 @@ export default {
   computed: {
     panelTitle() {
       const inx = (this.currentInx + 1) % 2
-      return ['背景主题', '赛钱箱'][inx]
+      return ['背景主题', '赞赏一杯咖啡~'][inx]
     },
     distance() {
       return [0, -600, -1200, -1800][this.currentInx]

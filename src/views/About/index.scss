@@ -116,14 +116,14 @@
               height: 26px;
             }
             &:hover {
-              background-color: $concat-telegram-color;
-              box-shadow: 0 0 10px $concat-telegram-color;
+              background-color: $concat-rss-color;
+              box-shadow: 0 0 10px $concat-rss-color;
             }
           }
           &:nth-child(4) {
             &:hover {
-              background-color: $concat-music-color;
-              box-shadow: 0 0 10px $concat-music-color;
+              background-color: $concat-telegram-color;
+              box-shadow: 0 0 10px $concat-telegram-color;
             }
           }
           &:nth-child(5) {
@@ -132,8 +132,8 @@
               height: 24px;
             }
             &:hover {
-              background-color: $concat-rss-color;
-              box-shadow: 0 0 10px $concat-rss-color;
+              background-color: $concat-music-color;
+              box-shadow: 0 0 10px $concat-music-color;
             }
           }
         }
