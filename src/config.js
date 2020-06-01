@@ -169,6 +169,17 @@ export default {
    */
   APlayer: [
     {
+      name: ' Rosabel【The red Coronation Rearrange】',
+      artist: 'Cre-sc3NT',
+      url: 'https://files.catbox.moe/a42p8j.mp3',
+      cover: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/rosabel.jpg',
+    },
+    {
+      name: 'only my railgun',
+      artist: 'まらしぃ',
+      cover: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/only-my-railgun.jpg',
+    },
+    {
       name: 'エミール',
       artist: '岡部啓一,石濱翔,帆足圭吾',
       url: 'https://files.catbox.moe/s96jn1.mp3',
