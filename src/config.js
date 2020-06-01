@@ -177,6 +177,7 @@ export default {
     {
       name: 'only my railgun',
       artist: 'まらしぃ',
+      url: 'https://files.catbox.moe/76bb9t.mp3',
       cover: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/only-my-railgun.jpg',
     },
     {
