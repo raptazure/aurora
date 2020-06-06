@@ -112,7 +112,7 @@ export default {
     enableComment: true,
     qoute: '',
     avatar: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg',
-    graduated: 'Harbin Institute of Technology at Weihai',
+    graduated: 'Harbin Institute of Technology',
     college: 'Software Engineering',
     contact: [
       {
