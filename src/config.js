@@ -22,7 +22,7 @@ export default {
    */
   username: 'raptazure', // github 用户名
   repository: 'raptazure.github.io', // 文章仓库地址
-  token: ['a0ea424d064f8d05a2d9', '8d64bc0adcfceba23565'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
+  token: ['32aac238cce068d0acf5', 'e5dd85e496f7b1d529de'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
 
   /**
    * Gitalk 配置，文档详见：https://github.com/gitalk/gitalk
