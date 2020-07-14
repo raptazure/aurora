@@ -111,7 +111,7 @@ export default {
     display: true,
     enableComment: true,
     qoute: '',
-    avatar: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/neko.jpg',
+    avatar: '//cdn.jsdelivr.net/gh/raptazure/cdn/blog/neko-avatar.jpg',
     graduated: 'Harbin Institute of Technology',
     college: 'Software Engineering',
     contact: [

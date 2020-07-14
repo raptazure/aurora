@@ -8,11 +8,10 @@
           <span>★ Bio：Raptazure</span>
           <span>★ Motto：心随自然</span>
           <span>★ URL：https://raptazure.github.io</span>
-          <span
-            >★ Avatar：<a href="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg" target="_blank"
-              >点击获取</a
-            ></span
-          >
+          <span>
+            ★ Avatar：
+            <a href="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/neko-avatar.jpg" target="_blank">点击获取</a>
+          </span>
         </div>
         <ul class="content">
           <li v-for="(item, index) in friend" :key="item.name">
