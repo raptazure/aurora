@@ -4,13 +4,14 @@
       <div class="page" v-if="friend.length">
         <Quote :quote="$config.friendOpts.qoute" />
         <div class="me">
-          <span>欢迎交换友链~</span>
-          <span>★ Bio：Raptazure</span>
-          <span>★ Motto：心随自然</span>
-          <span>★ URL：https://raptazure.github.io</span>
+          <span>欢迎交换友链呀！</span>
+          <span>★ Bio: Raptazure</span>
+          <span>★ Motto: 心随自然</span>
+          <span>★ URL: https://raptazure.github.io</span>
           <span>
-            ★ Avatar：
+            ★ Avatar:
             <a href="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/neko-avatar.jpg" target="_blank">点击获取</a>
+            <span> -> 以下排序不分先后~</span>
           </span>
         </div>
         <ul class="content">
