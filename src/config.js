@@ -74,7 +74,7 @@ export default {
   tagOpts: {
     display: true,
     enableComment: false,
-    qoute: '灯笼流丽，百鬼夜行',
+    qoute: '追想風景 彼岸帰航',
   },
 
   /**
@@ -84,15 +84,6 @@ export default {
     display: true,
     enableComment: true,
     qoute: '詠奏妖華，明鏡止水',
-  },
-
-  /**
-   * 书单页面
-   */
-  bookOpts: {
-    display: false,
-    enableComment: true,
-    qoute: '追想風景 彼岸帰航',
   },
 
   /**
