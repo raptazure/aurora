@@ -87,6 +87,15 @@ export default {
   },
 
   /**
+   * 书单页面
+   */
+  bookOpts: {
+    display: false,
+    enableComment: true,
+    qoute: '沉思之語，寧靜之鄰',
+  },
+
+  /**
    * 友链页面
    */
   friendOpts: {
